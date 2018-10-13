@@ -1,0 +1,9 @@
+package test
+
+public class Test
+
+public static void main(String[] args){
+    
+    User user = new User(Steven, Verbelen, 81798);
+    System.out.println(user.getFullName);
+}
